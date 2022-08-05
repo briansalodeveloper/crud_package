@@ -1,5 +1,5 @@
 {
-    "name": "brian/crud",
+    "name": "briansalo/crud",
     "description": "This will handle crud operation",
     "type": "library",
     "license": "MIT",
