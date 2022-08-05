@@ -1,0 +1,15 @@
+{
+    "name": "brian/crud",
+    "description": "This will handle crud operation",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Brian\\Crud\\": "src/",
+            "Brian\\Commands\\": "src/commands"
+            
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
